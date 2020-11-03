@@ -49,6 +49,7 @@ RUN dpkg --add-architecture i386 \
     automake \
     bc \
     binutils \
+    bison \
     bzip2 \
     cmake \
     cpio \
@@ -56,6 +57,7 @@ RUN dpkg --add-architecture i386 \
     default-jdk \
     device-tree-compiler \
     elfutils \
+    flex \
     fftw3-dev \
     file \
     g++ \
